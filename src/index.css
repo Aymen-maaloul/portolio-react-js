@@ -305,6 +305,9 @@ line-height: normal;
    justify-content: center;
    gap: 15px;
 }
+.svg11{
+   fill: white;
+}
 .html1{
    width: 75px;
    height: 45px;
@@ -837,7 +840,9 @@ margin-top: 70px;
          display: grid;
       padding-top: 50px;
      }
-
+.svg11{
+   fill: white;
+}
      a{
          padding: 10px;
          transition: all .23s;
